@@ -1,0 +1,80 @@
+{% load static %}
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, width=device-width" />
+
+    <link rel="stylesheet" href="{% static 'medi/global.css' %}" />
+    <link rel="stylesheet" href="{% static 'medi/frame2.css' %}" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Jomhuria:wght@400&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Jomolhari:wght@400&display=swap"
+    />
+  </head>
+  <body>
+    <div class="frame21">
+      <img class="frame2-child" alt="" src="{% static 'medi/public/rectangle-17.svg' %}" />
+
+      <div class="frame2-item"></div>
+      <div class="frame2-inner"></div>
+      <img class="frame2-child1" alt="" src="{% static 'medi/public/line-1.svg' %}" />
+
+      <img
+        class="frame2-child2"
+        alt=""
+        src="{% static 'medi/public/rectangle-16.svg' %}"
+        id="rectangle2"
+      />
+
+      <a class="sign-up" href="./frame3.html">Sign Up</a>
+      <img class="image-7-icon" alt="" src="{% static 'medi/public/image-7@2x.png' %}" />
+
+      <img class="image-7-icon" alt="" src="{% static 'medi/public/image-7@2x.png' %}" />
+
+      <img class="image-6-icon" alt="" src="{% static 'medi/public/image-6@2x.png' %}" />
+
+      <input class="username1" type="text" />
+
+      <input class="password2" type="text" />
+
+      <img class="frame2-child3" alt="" src="{% static 'medi/public/line-3.svg' %}" />
+
+      <img
+        class="frame2-child4"
+        alt=""
+        src="{% static 'medi/public/rectangle-16.svg' %}"
+        id="rectangle3"
+      />
+
+      <b class="log-in1">Log In</b>
+      <img class="frame2-child5" alt="" src="{% static 'medi/public/line-6.svg' %}" />
+
+      <img class="image-3-icon1" alt="" src="{% static 'medi/public/image-2@2x.png' %}" />
+    </div>
+
+    <script>
+      var rectangle2 = document.getElementById("rectangle2");
+      if (rectangle2) {
+        rectangle2.addEventListener("click", function (e) {
+          window.location.href = "./frame3.html";
+        });
+      }
+      
+      var rectangle3 = document.getElementById("rectangle3");
+      if (rectangle3) {
+        rectangle3.addEventListener("click", function (e) {
+          window.location.href = "./frame4.html";
+        });
+      }
+      </script>
+  </body>
+</html>

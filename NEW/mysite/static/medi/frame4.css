@@ -1,0 +1,274 @@
+.frame4-child {
+  position: absolute;
+  top: calc(50% - 540px);
+  left: 0;
+  border-radius: 0 0 var(--br-281xl) 0;
+  background-color: var(--color-rosybrown-100);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 1500px;
+  height: 235px;
+}
+
+.medicare1 {
+  position: absolute;
+  top: 2px;
+  left: 78px;
+  font-size: 90px;
+  background: linear-gradient(#fff, #fff), #fff;
+  background-clip: text;   
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  display: inline-block;
+  width: 297px;
+  height: 63px;
+}
+.property-1default-child {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-xl);
+  background-color: var(--color-gainsboro);
+  cursor: pointer;
+}
+.property-1default {
+  position: absolute;
+  top: 20px;
+  left: 20px;
+  width: 223px;
+  height: 44px;
+  cursor: pointer;
+}
+
+.property-1default-wrapper {
+  position: absolute;
+  top: -7px;
+  left: 364px;  
+  width: 263px;
+  height: 148px;
+  overflow: hidden;
+}
+.services {
+  position: absolute;
+  top: 13px;
+  left: 400px;
+  font-size: var(--font-size-31xl);
+  display: inline-block;
+  width: 207px;
+  height: 47px;
+  cursor:pointer;
+}
+.property-1variant2-child {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-xl);
+  background-color: var(--color-gainsboro);
+}
+.find-a-doctor {
+  position: absolute;
+  top: -4.55%;
+  left: 12.56%;
+}
+.property-1variant2 {
+  position: absolute;
+  top: 20px;
+  left: 20px;
+  width: 223px;
+  height: 44px;
+  cursor: pointer;
+}
+.property-1variant2-wrapper {
+  position: absolute;
+  top: -7px;
+  left: 627px;
+  width: 263px;
+  height: 148px;
+  overflow: hidden;
+}
+.contacts {
+  position: absolute;
+  top: -4.55%;
+  left: 25.56%;
+}
+.property-1variant2-container {
+  position: absolute;
+  top: -7px;
+  left: 890px;
+  width: 263px;
+  height: 212px;
+  overflow: hidden;
+}
+.place-order {
+  position: absolute;
+  top: -4.55%;
+  left: 17.49%;
+  cursor:pointer;
+}
+.rectangle-24variant2,
+.rectangle-24variant21 {
+  position: absolute;
+  top: 13px;
+  left: 1178px;
+  width: 223px;
+  height: 44px;
+  cursor: pointer;
+}
+.rectangle-24variant21 {
+  left: 1571px;
+}
+.expert-medical-treatment,
+.we-follow-a {
+  position: relative;
+  display: inline-block;
+  width: 436px;
+  height: 48px;
+  flex-shrink: 0;
+}
+.we-follow-a {
+  font-size: var(--font-size-45xl);
+  font-family: var(--font-jomhuria);
+  width: 720px;
+  height: 152px;
+}
+.frame2 {
+  position: absolute;
+  top: 67px;
+  left: 15px;
+  width: 720px;
+  height: 207px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-6xs);
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-white);
+  font-family: var(--font-jomolhari);
+}
+.frame,
+.image-4-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.image-4-icon {
+  width: 69px;
+  height: 62px;
+  object-fit: cover;
+}
+.frame {
+  width: 1500px;
+  height: 235px;
+  overflow: hidden;
+}
+.about-us {
+  position: absolute;
+  top: 17px;
+  left: 634px;
+  text-decoration: underline;
+  display: inline-block;
+  width: 225px;
+  height: 55px;
+}
+.image-4-icon1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 593px;
+  height: 354px;
+  object-fit: cover;
+}
+.our-mission-is {
+  position: absolute;
+  top: 100px;
+  left: 617px;
+  font-size: var(--font-size-5xl);
+  display: inline-block;
+  width: 907px;
+  height: 141px;
+}
+.about-us-parent {
+  position: absolute;
+  top: 880px;
+  left: 0;
+  background-color: var(--color-rosybrown-100);
+  width: 1500px;
+  height: 200px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-41xl);
+  color: var(--color-white);
+}
+.frame4-item,
+.image-3-icon {
+  position: absolute;
+  top: 349px;
+  left: 967px;
+  width: 533px;
+  height: 400px;
+}
+.image-3-icon {
+  top: 238px;
+  left: 1093px;
+  border-radius: var(--br-181xl) var(--br-181xl) var(--br-781xl) var(--br-781xl);
+  width: 318px;
+  height: 604px;
+  object-fit: cover;
+}
+.innovation-meets-compassion,
+.seamless-scheduling-quality {
+  position: absolute;
+  top: 0;
+  left: 170px;
+  display: inline-block;
+  width: 849px;
+  height: 222px;
+}
+.innovation-meets-compassion {
+  top: 193px;
+  left: 0;
+  font-size: var(--font-size-5xl);
+  font-family: var(--font-jomolhari);
+  width: 1168px;
+  height: 44px;
+}
+.frame7 {
+  position: relative;
+  width: 1168px;
+  height: 237px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.frame6 {
+  position: absolute;
+  top: 389px;
+  left: -18px;
+  width: 1196px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  font-size: var(--font-size-81xl);
+}
+.frame4 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1080px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-29xl);
+  color: var(--color-black);
+  font-family: var(--font-jomhuria);
+}

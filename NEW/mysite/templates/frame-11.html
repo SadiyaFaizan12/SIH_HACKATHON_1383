@@ -1,0 +1,59 @@
+{% load static%}
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, width=device-width" />
+
+    <link rel="stylesheet" href="{% static 'medi/global.css' %}" />
+    <link rel="stylesheet" href="{% static 'medi/frame-11.css' %}" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Jomhuria:wght@400&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Jomolhari:wght@400&display=swap"
+    />
+  </head>
+  <body>
+    <div class="rectangle-parent">
+      <div class="frame-child"></div>
+      <div class="upload-prescription">
+        <b>&lt; </b>
+        <span class="span14"> </span>
+        <b>UPLOAD PRESCRIPTION</b>
+      </div>
+      <div class="frame-item"></div>
+      <div class="upload-prescription-from">Upload prescription from</div>
+      <div class="frame-inner"></div>
+      <div class="gallery">Gallery</div>
+      <div class="frame-child1"></div>
+      <div class="frame-child2"></div>
+      <img class="image-30-icon" alt="" src="{% static 'medi/public/image-30@2x.png' %}" />
+
+      <div class="camera">camera</div>
+      <img class="image-31-icon" alt="" src="{% static 'medi/public/image-31@2x.png' %}" />
+
+      <img class="image-32-icon" alt="" src="{% static 'medi/public/image-32@2x.png' %}" />
+
+      <div class="my-prescription">My Prescription</div>
+      <div class="dont-have-a-container">
+        <span class="dont-have-a">Don't have a valid prescription?</span>
+        <span class="span15"> </span>
+      </div>
+      <div class="click-here-for-container">
+        <span>Click here</span>
+        <span class="span16"> </span>
+        <span class="for-medicare-doctor"
+          >for Medicare+ doctor consultation</span
+        >
+        <span class="span17"> </span>
+      </div>
+    </div>
+  </body>
+</html>

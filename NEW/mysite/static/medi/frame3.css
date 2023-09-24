@@ -1,0 +1,139 @@
+.frame3-child {
+  position: absolute;
+  top: -948px;
+  left: 98.31px;
+  border-radius: var(--br-xs);
+  background-color: var(--color-rosybrown-100);
+  width: 1479.53px;
+  height: 1047.27px;
+  transform: rotate(57.82deg);
+  transform-origin: 0 0;
+}
+.frame3-inner,
+.frame3-item {
+  position: absolute;
+  top: 419px;
+  left: 463.98px;
+  width: 305.02px;
+  height: 15px;
+}
+.frame3-inner {
+  top: 618px;
+  left: 467.99px;
+  width: 297.01px;
+  height: 4px;
+}
+.line-icon,
+.username {
+  position: absolute;
+  top: 804px;
+  left: 463.99px;
+  width: 305.01px;
+  height: 11px;
+}
+.username {
+  border: 0;
+  display: inline-block;
+  font-family: var(--font-inter);
+  background-color: transparent;
+  top: 346px;
+  left: 525px;
+  font-weight: 700;
+  color: var(--color-black);
+  text-align: left;
+  width: 242px;
+  height: 52px;
+}
+.password1,
+.username {
+  font-size: var(--font-size-13xl);
+}
+.span {
+  font-size: var(--font-size-29xl);
+}
+.email-address,
+.password {
+  position: absolute;
+  display: inline-block;
+}
+.password {
+  border: 0;
+  font-family: var(--font-inter);
+  background-color: transparent;
+  top: 695px;
+  left: 525px;
+  font-weight: 700;
+  color: var(--color-black);
+  text-align: left;
+  width: 293px;
+  height: 52px;
+}
+.email-address {
+  top: 527px;
+  left: 512px;
+  width: 437px;
+  height: 44px;
+}
+.image-8-icon1,
+.image-9-icon1 {
+  position: absolute;
+  top: 336px;
+  left: 424px;
+  width: 88px;
+  height: 84px;
+  object-fit: cover;
+}
+.image-9-icon1 {
+  top: 697px;
+  left: 397px;
+  width: 87px;
+  height: 88px;
+}
+.log-in,
+.rectangle-div {
+  position: absolute;
+  width: 322px;
+}
+.rectangle-div {
+  top: 865px;
+  left: 529px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-mistyrose);
+  height: 106px;
+  cursor: pointer;
+}
+.log-in {
+  top: 883px;
+  left: 604px;
+  font-size: var(--font-size-45xl);
+  display: inline-block;
+  height: 51px;
+}
+.image-5-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 69px;
+  height: 62px;
+  object-fit: cover;
+}
+.ellipse-div {
+  position: absolute;
+  top: 398px;
+  left: 949px;
+  border-radius: 50%;
+  background-color: var(--color-mistyrose);
+  width: 796px;
+  height: 771px;
+}
+.frame3 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1080px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-13xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

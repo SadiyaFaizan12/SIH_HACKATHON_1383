@@ -1,0 +1,207 @@
+.b6,
+.line-div {
+  position: absolute;
+}
+.b6 {
+  top: 5px;
+  left: 59px;
+  font-size: var(--font-size-45xl);
+  text-align: left;
+  cursor: pointer;
+}
+.line-div {
+  top: 14.5px;
+  left: 149.5px;
+  border-right: 1px solid var(--color-white);
+  box-sizing: border-box;
+  width: 1px;
+  height: 91px;
+}
+.add-items,
+.your-cart {
+  position: absolute;
+  top: 18px;
+  left: 476px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 274px;
+  height: 83px;
+}
+.add-items {
+  top: 11px;
+  left: 1152px;
+  color: var(--color-rosybrown-500);
+}
+.container {
+  position: absolute;
+  top: 44px;
+  left: 30px;
+  border-radius: var(--br-21xl);
+  background-color: var(--color-rosybrown-100);
+  width: 1426px;
+  height: 105px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-13xl);
+  color: var(--color-white);
+}
+.becosules-capsule,
+.image-19-icon {
+  position: absolute;
+  top: 485px;
+  left: 400px;
+}
+.image-19-icon {
+  top: 30px;
+  left: 56px;
+  width: 200px;
+  height: 240px;
+  object-fit: cover;
+}
+.digital-thermometer,
+.frame-child3 {
+  position: absolute;
+  top: 85px;
+  left: 394px;
+}
+.frame-child3 {
+  top: 178px;
+  left: 410px;
+  background-color: var(--color-gainsboro);
+  width: 170px;
+  height: 56px;
+}
+.frame-child4,
+.frame-child5 {
+  position: absolute;
+  top: 177.5px;
+  left: 445.5px;
+  border-right: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 1px;
+  height: 57px;
+}
+.frame-child5 {
+  left: 543.5px;
+}
+.div2 {
+  position: absolute;
+  top: 186px;
+  left: 412px;
+  display: inline-block;
+  width: 173px;
+  height: 48px;
+}
+.image-19-parent {
+  position: absolute;
+  top: 164px;
+  left: 0;
+  width: 1500px;
+  height: 309px;
+  overflow: hidden;
+}
+.frame10-child {
+  position: absolute;
+  top: 549px;
+  left: 413px;
+  background-color: var(--color-gainsboro);
+  width: 187px;
+  height: 59px;
+}
+.div3 {
+  position: absolute;
+  top: 555px;
+  left: 417px;
+  display: inline-block;
+  width: 183px;
+  height: 48px;
+}
+.group-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 364px;
+  height: 78px;
+}
+.amount-to-pay {
+  left: 49px;
+  display: inline-block;
+  width: 364px;
+}
+.amount-to-pay,
+.frame-child6,
+.vector-parent {
+  position: absolute;
+  top: 0;
+  height: 111px;
+}
+.vector-parent {
+  left: 0;
+  width: 413px;
+  text-align: left;
+}
+.frame-child6 {
+  left: 929px;
+  background-color: var(--color-mistyrose);
+  width: 410px;
+}
+.add-address,
+.rs-34150 {
+  position: absolute;
+  top: 20px;
+  left: 929px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 401px;
+  height: 71px;
+}
+.rs-34150 {
+  top: 78px;
+  left: 0;
+  width: 364px;
+  height: 70px;
+}
+.group-parent {
+  position: absolute;
+  top: 868px;
+  left: 0;
+  width: 1500px;
+  height: 185px;
+  overflow: hidden;
+  text-align: center;
+}
+.image-28-icon {
+  position: absolute;
+  top: 495px;
+  left: 78px;
+  width: 220px;
+  height: 108px;
+  object-fit: cover;
+}
+.frame10-inner,
+.frame10-item {
+  position: absolute;
+  top: 548.5px;
+  left: 473.5px;
+  border-right: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 1px;
+  height: 60px;
+}
+.frame10-inner {
+  top: 549.5px;
+  left: 543.5px;
+}
+.frame101 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1080px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-21xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

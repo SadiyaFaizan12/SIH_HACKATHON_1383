@@ -1,0 +1,56 @@
+{% load static  %}
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, width=device-width" />
+
+    <link rel="stylesheet" href="{% static 'medi/global.css' %}" />
+    <link rel="stylesheet" href="{% static 'medi/index.css' %}" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Jomhuria:wght@400&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Jomolhari:wght@400&display=swap"
+    />
+  </head>
+  <body>
+    <div class="frame1">
+      <img class="frame1-child" alt="" src="{% static 'medi/public/ellipse-13.svg' %}" />
+
+      <img class="image-9-icon" alt="" src="{% static 'medi/public/image-9@2x.png' %}" />
+
+      <img
+        class="frame1-item"
+        alt=""
+        src="{% static 'medi/public/rectangle-18.svg' %}"
+        id="rectangle"
+      />
+
+      <a class="get-started" href="./frame2.html">Get Started</a>
+      <div class="empowering-patients-supportin">
+        "Empowering Patients, Supporting Doctors: Where Convenience Meets
+        Compassion."
+      </div>
+      <div class="medicare">MEDICARE+</div>
+      <img class="image-8-icon" alt="" src="{% static 'medi/public/image-8@2x.png' %}" />
+
+      <img class="image-2-icon" alt="" src="{% static 'medi/public/image-2@2x.png' %}" />
+    </div>
+
+    <script>
+      var rectangle = document.getElementById("rectangle");
+      if (rectangle) {
+        rectangle.addEventListener("click", function (e) {
+          window.location.href = "./frame2.html";
+        });
+      }
+      </script>
+  </body>
+</html>

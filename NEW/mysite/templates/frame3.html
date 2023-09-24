@@ -1,0 +1,59 @@
+{% load static %}
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, width=device-width" />
+
+    <link rel="stylesheet" href="{% static 'medi/global.css' %}" />
+    <link rel="stylesheet" href="{% static 'medi/frame3.css' %}" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Jomhuria:wght@400&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Jomolhari:wght@400&display=swap"
+    />
+  </head>
+  <body>
+    <div class="frame3">
+      <div class="frame3-child"></div>
+      <img class="frame3-item" alt="" src="{% static 'medi/public/line-5.svg' %}" />
+
+      <img class="frame3-inner" alt="" src="{% static 'medi/public/line-2.svg' %}" />
+
+      <img class="line-icon" alt="" src="{% static 'medi/public/line-4.svg ' %}" />
+
+      <input class="username" type="text" />
+
+      <input class="password" type="text" />
+      <span class="password1">Password</span>
+      <span class="span"> </span>
+
+      <b class="email-address">Email Address</b>
+      <img class="image-8-icon1" alt="" src="{% static 'medi/public/image-6@2x.png' %}" />
+
+      <img class="image-9-icon1" alt="" src="{% static 'medi/public/image-7@2x.png ' %}" />
+
+      <div class="rectangle-div" id="rectangle1"></div>
+      <b class="log-in">Log In</b>
+      <img class="image-5-icon" alt="" src="{% static 'medi/public/image-2@2x.png' %}" />
+
+      <div class="ellipse-div"></div>
+    </div>
+
+    <script>
+      var rectangle1 = document.getElementById("rectangle1");
+      if (rectangle1) {
+        rectangle1.addEventListener("click", function (e) {
+          window.location.href = "./frame4.html";
+        });
+      }
+      </script>
+  </body>
+</html>

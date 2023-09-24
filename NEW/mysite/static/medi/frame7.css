@@ -1,0 +1,172 @@
+.contact-list,
+.frame7-child {
+  position: absolute;
+  top: 78px;
+  left: 0;
+  width: 428px;
+  height: 1009px;
+}
+.contact-list {
+  top: 85px;
+  left: 728px;
+  font-size: var(--font-size-21xl);
+  display: inline-block;
+  width: 239px;
+  height: 59px;
+}
+.frame7-inner,
+.frame7-item {
+  position: absolute;
+  top: 174px;
+  left: 74px;
+  width: 304px;
+  height: 169px;
+  object-fit: cover;
+}
+.frame7-inner {
+  top: 377px;
+  height: 180px;
+}
+.image-11-icon1 {
+  top: 592px;
+  left: 74px;
+  width: 304px;
+  height: 171px;
+}
+.frame-icon1,
+.image-11-icon1,
+.image-16-icon {
+  position: absolute;
+  object-fit: cover;
+}
+.frame-icon1 {
+  top: 993.95px;
+  left: 71px;
+  border-radius: var(--br-3xs);
+  width: 306.44px;
+  height: 86.05px;
+  overflow: hidden;
+}
+.image-16-icon {
+  top: 797px;
+  left: 74px;
+  width: 304px;
+  height: 180px;
+}
+.frame7-child1,
+.frame7-child2 {
+  position: absolute;
+  top: 346.04px;
+  left: 471.99px;
+  width: 989.01px;
+  height: 9.55px;
+}
+.frame7-child2 {
+  top: 539.65px;
+  left: 464.98px;
+  width: 996.02px;
+  height: 17.82px;
+}
+.frame7-child3,
+.frame7-child4 {
+  position: absolute;
+  top: 749.51px;
+  left: 464.99px;
+  width: 996.52px;
+  height: 16.42px;
+}
+.frame7-child4 {
+  top: 970.52px;
+  left: 462.99px;
+  width: 998.01px;
+  height: 12.22px;
+}
+.orthopaedics {
+  margin: 0;
+  font-size: var(--font-size-5xl);
+  color: var(--color-rosybrown-100);
+}
+.designation-srconsultant {
+  margin: 0;
+}
+.drmalika-orthopaedics-designa-container {
+  position: absolute;
+  top: 384px;
+  left: 492px;
+  font-weight: 500;
+  display: inline-block;
+  width: 503px;
+  height: 190px;
+}
+.pediatric-cardiology {
+  margin: 0;
+  font-size: var(--font-size-5xl);
+  color: var(--color-rosybrown-300);
+}
+.dr-susan-pediatric-container {
+  position: absolute;
+  top: 583px;
+  left: 492px;
+  font-weight: 500;
+  display: inline-block;
+  width: 413px;
+  height: 143px;
+}
+.dranu-john-cardeologist-container,
+.drjackson-alferd-gynaecologis-container1 {
+  position: absolute;
+  top: 790px;
+  left: 492px;
+  font-weight: 500;
+  display: inline-block;
+  width: 371px;
+  height: 182px;
+}
+.dranu-john-cardeologist-container {
+  top: 1008px;
+  left: 490px;
+  width: 336px;
+  height: 136px;
+}
+.dr-joe1 {
+  margin: 0;
+  font-weight: 500;
+}
+.cardiac-surgery2 {
+  font-size: var(--font-size-5xl);
+  color: var(--color-rosybrown-500);
+}
+.cardiac-surgery1 {
+  font-weight: 600;
+}
+.designation-sr-consultant-ca {
+  margin: 0;
+  font-size: var(--font-size-5xl);
+}
+.opd-timings {
+  font-weight: 500;
+}
+.span20 {
+  font-weight: 600;
+  font-family: var(--font-inter);
+}
+.dr-joe-cardiac-container {
+  position: absolute;
+  top: 161px;
+  left: 490px;
+  white-space: pre-wrap;
+  display: inline-block;
+  width: 921px;
+  height: 168px;
+}
+.frame71 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1080px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-13xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

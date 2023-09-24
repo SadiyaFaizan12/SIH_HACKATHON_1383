@@ -1,0 +1,221 @@
+.frame9-child {
+  position: absolute;
+  top: 2697px;
+  left: 167px;
+  border-radius: var(--br-3xs);
+  width: 1435px;
+  height: 118px;
+  object-fit: cover;
+}
+.frame8,
+.my-appointment {
+  position: absolute;
+  top: 11px;
+  left: 444px;
+}
+.frame8 {
+  top: 0;
+  left: 150px;
+  width: 1190px;
+  height: 165px;
+  overflow: hidden;
+  font-size: var(--font-size-29xl);
+}
+.frame9-item {
+  top: 18px;
+  left: 253px;
+  background-color: #f9f6f6;
+  width: 61px;
+  height: 50px;
+}
+.frame-icon,
+.frame9-item,
+.h1 {
+  position: absolute;
+}
+.h1 {
+  margin: 0;
+  top: 17px;
+  left: 269.17px;
+  font-size: var(--font-size-21xl);
+  font-weight: 700;
+  font-family: inherit;
+  transform: rotate(1.4deg);
+  transform-origin: 0 0;
+}
+.frame-icon {
+  top: 83px;
+  left: 453px;
+  border-radius: var(--br-3xs);
+  width: 591px;
+  height: 347px;
+  overflow: hidden;
+  object-fit: cover;
+}
+.reviews4 {
+  font-weight: 500;
+}
+.cardiologist-mars-hospital,
+.dranu-john-container {
+  position: absolute;
+  top: 445px;
+  left: 298px;
+  font-size: var(--font-size-21xl);
+  display: inline-block;
+  width: 1492px;
+  height: 80px;
+}
+.cardiologist-mars-hospital {
+  top: 498px;
+  left: 297px;
+  font-size: var(--font-size-17xl);
+  font-weight: 500;
+  color: var(--color-gray-100);
+  width: 553px;
+  height: 54px;
+}
+.ellipse-icon,
+.frame9-child1,
+.frame9-child2,
+.frame9-inner {
+  position: absolute;
+  top: 569px;
+  left: 54px;
+  border-radius: 50%;
+  width: 48px;
+  height: 48px;
+  object-fit: cover;
+}
+.ellipse-icon,
+.frame9-child1,
+.frame9-child2 {
+  top: 571px;
+  left: 420px;
+  width: 66px;
+  height: 51px;
+}
+.frame9-child1,
+.frame9-child2 {
+  top: 569px;
+  left: 869px;
+  width: 48px;
+  height: 48px;
+}
+.frame9-child2 {
+  left: 1276px;
+  width: 62px;
+}
+.p {
+  margin: 0;
+}
+.patients1 {
+  margin: 0;
+  color: var(--color-silver);
+}
+.patients {
+  position: absolute;
+  top: 629px;
+  left: 31px;
+  font-weight: 500;
+  white-space: pre-wrap;
+}
+.span13 {
+  color: var(--color-black);
+}
+.year-experience {
+  position: absolute;
+  top: 626px;
+  left: 381px;
+  font-weight: 500;
+  white-space: pre-wrap;
+}
+.about-me,
+.reviews5 {
+  position: absolute;
+  font-weight: 500;
+  display: inline-block;
+}
+.reviews5 {
+  top: 612px;
+  left: 1270px;
+  white-space: pre-wrap;
+  width: 113px;
+  height: 79px;
+}
+.about-me {
+  top: 699px;
+  left: 12px;
+  font-size: var(--font-size-13xl);
+  width: 396px;
+  height: 43px;
+}
+.read-more {
+  color: var(--color-rosybrown-100);
+}
+.dranu-john-is-container {
+  position: absolute;
+  top: 760px;
+  left: 12px;
+  font-size: var(--font-size-11xl);
+  display: inline-block;
+  width: 1443px;
+  height: 105px;
+  color: var(--color-silver);
+}
+.patient-information {
+  position: absolute;
+  top: 843px;
+  left: 12px;
+  font-size: var(--font-size-17xl);
+  font-weight: 500;
+}
+.full-name-container,
+.start-voice-call {
+  position: absolute;
+  font-weight: 500;
+  display: inline-block;
+}
+.full-name-container {
+  top: 899px;
+  left: 12px;
+  color: var(--color-silver);
+  width: 875px;
+  height: 123px;
+}
+.start-voice-call {
+  top: 13px;
+  left: 375px;
+  width: 682px;
+  height: 50px;
+}
+.frame10,
+.image-2-icon2 {
+  position: absolute;
+  top: 980px;
+  left: 277px;
+}
+.frame10 {
+  border-radius: var(--br-3xs);
+  background-color: var(--color-rosybrown-100);
+  width: 1128px;
+  height: 75px;
+  overflow: hidden;
+  font-size: var(--font-size-17xl);
+  color: var(--color-white);
+}
+.image-2-icon2 {
+  width: 91px;
+  height: 93px;
+  object-fit: cover;
+}
+.frame9 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1080px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

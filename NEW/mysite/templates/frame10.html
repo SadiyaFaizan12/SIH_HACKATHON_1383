@@ -1,0 +1,68 @@
+{% load static%}
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, width=device-width" />
+
+    <link rel="stylesheet" href="{% static 'medi/global.css' %}" />
+    <link rel="stylesheet" href="{% static 'medi/frame10.css' %}" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Jomhuria:wght@400&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Jomolhari:wght@400&display=swap"
+    />
+  </head>
+  <body>
+    <div class="frame101">
+      <div class="container">
+        <b class="b6" id="text">&lt;</b>
+        <div class="line-div"></div>
+        <b class="your-cart">Your Cart</b>
+        <b class="add-items">Add items</b>
+      </div>
+      <div class="becosules-capsule">becosules capsule</div>
+      <div class="image-19-parent">
+        <img class="image-19-icon" alt="" src="{% static 'medi/public/image-19@2x.png' %}" />
+
+        <div class="digital-thermometer">digital thermometer</div>
+        <div class="frame-child3"></div>
+        <div class="frame-child4"></div>
+        <div class="frame-child5"></div>
+        <div class="div2">+ 1 - -</div>
+      </div>
+      <div class="frame10-child"></div>
+      <div class="div3">+ 1 -</div>
+      <div class="group-parent">
+        <div class="vector-parent">
+          <img class="group-child" alt="" src="{% static 'medi/public/rectangle-80.svg ' %}" />
+
+          <div class="amount-to-pay">Amount to Pay</div>
+        </div>
+        <div class="frame-child6"></div>
+        <div class="add-address">Add Address</div>
+        <div class="rs-34150">Rs. 341.50</div>
+      </div>
+      <img class="image-28-icon" alt="" src="{% static 'medi/public/image-28@2x.png' %}" />
+
+      <div class="frame10-item"></div>
+      <div class="frame10-inner"></div>
+    </div>
+
+    <script>
+      var text = document.getElementById("text");
+      if (text) {
+        text.addEventListener("click", function (e) {
+          window.location.href = "./frame8.html";
+        });
+      }
+      </script>
+  </body>
+</html>
