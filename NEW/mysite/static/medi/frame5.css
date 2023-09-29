@@ -228,10 +228,15 @@
   width: 559px;
   height: 171px;
 }
-.dralfered-rao-container {
-  top: 724px;
-  left: 1544px;
+.dralfered-rao-container{
+  position: absolute;
+  top: 0;
+  left: 311px;
+  font-size: var(--font-size-11xl);
+  font-weight: 500;
 }
+
+
 .b2 {
   top: 526px;
   left: 1303px;
